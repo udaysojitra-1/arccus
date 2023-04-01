@@ -941,12 +941,12 @@ li:focus-visible {
 }
 .project .swiper-button-next,
 .project .swiper-button-prev {
-  right: -38% !important;
+  right: -43% !important;
   top: 60% !important;
   z-index: 999999;
 }
 .project .swiper-button-prev {
-  right: -33% !important;
+  right: -38% !important;
 }
 .position-class {
   height: 380px;
